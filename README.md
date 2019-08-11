@@ -8,7 +8,11 @@ g
 gs
 gs
 gssgfsg
+gs
+d
 
+gd
+ds
 fds
 
 fs
