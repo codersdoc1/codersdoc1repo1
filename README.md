@@ -7,7 +7,13 @@ s
 g
 gs
 gs
+gssg
+s
+g
+sg
+s
 gs
+d
 g
 sgd
 dsg
